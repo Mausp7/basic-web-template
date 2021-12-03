@@ -1,2 +1,2 @@
 # basic-web-template
-Starter html, css and js files.
+Starter html, scss and js files.
